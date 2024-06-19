@@ -1,4 +1,4 @@
-# Code-from-scratch - Neural Network
+# Code-from-scratch : Neural Network
 
 This Python code implements a basic neural network architecture from scratch to classify handwritten digits from the MNIST dataset. It avoids external deep learning libraries like TensorFlow or Keras, relying on fundamental numerical computing libraries like NumPy (numpy) for array manipulation and mathematical operations.
 
